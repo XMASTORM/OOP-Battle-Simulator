@@ -1,7 +1,7 @@
 from goblin import Goblin
 
 
-ARENA_NAME = "The Great Explosion Murder God Dynamight Arena"
+ARENA_NAME = "The Great Explosion Murder God Dynamite Arena"
 
 
 def main():
